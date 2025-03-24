@@ -1,5 +1,5 @@
 # 123PAU34
-Olá , sou Paulo Alexander tenho 21 anos,sou músico cristão,oficial r2 do exército brasileiro. :blush:   :guitar:     
+Olá , sou Paulo Alexander . :blush:   :guitar:     
       Graduando o quarto semestre de engenharia da computação, :computer: na faculdade martha falcão wyden em manaus Amazonas. 
             Apaixonado por ciberseguranca,eletrõnica analógica e filmes.:computer:                                                                 
           Além dos hobbies tecnológicos,divido meu tempo explorando o inglês. :books:
