@@ -1,6 +1,6 @@
 # 123PAU34
 Olá , sou Paulo Alexander . :blush:   :guitar:     
-      Graduando o quarto semestre de engenharia da computação, :computer: na faculdade martha falcão wyden em manaus Amazonas. 
+      Graduando o sétimo semestre de engenharia da computação, :computer: na faculdade martha falcão wyden em manaus Amazonas. 
             Apaixonado por ciberseguranca,eletrõnica analógica e filmes.:computer:                                                                 
           Além dos hobbies tecnológicos,divido meu tempo explorando o inglês. :books:
 ## Conecte-se comigo
