@@ -1,32 +1,66 @@
-# 123PAU34
-Olá , sou Paulo Alexander . :blush:   :guitar:     
-      Graduando o sétimo semestre de engenharia da computação, :computer: na faculdade martha falcão wyden em manaus Amazonas. 
-            Apaixonado por ciberseguranca,eletrõnica analógica e filmes.:computer:                                                                 
-          Além dos hobbies tecnológicos,divido meu tempo explorando o inglês. :books:
-## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-pinheiro-12b7581a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-            	[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:paulo.ap359@gmail.com)  
-                	[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55+92+984659220)  
-                    
+# Paulo Alexander Fernandes Pinheiro
+**Bacharel em Engenharia da Computação**  
+📍 Manaus, AM, Brasil | ✉️ paulo.ap359@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/paulo-alexander1)
 
 
-## Habilidades
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/123PAU34)  
-         ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)           
-                ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
+## 🛠️ Hard Skills & Competências
 
+| Área | Tecnologias e Especialidades |
+| :--- | :--- |
+| **Programação** | Python, C, HTML, CSS, Programação Web |
+| **Hardware & Automação** | IoT, Automação Industrial, Indústria 4.0, Sistemas Embarcados |
+| **Sistemas & Bancos** | Windows, Linux, Bancos de Dados Relacionais |
+| **Especialidades** | Cibersegurança, Inteligência Artificial (Machine Learning, LLMs, Agentes) |
 
-## Github stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=123PAU34&theme=transparent&bg_color=122&border_color=40A5DC&show_icons=true&icon_color=50A5DC&title_color=E94D5F&text_color=EEB)
+---
 
-## Minhas  Contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=123PAU34&repo=dio-lab-open-source&bg_color=122&border_color=30A3DC&show_icons=true&icon_color=50A5DC&title_color=E94D5F&text_color=EEB)](https://github.com/123PAU34/dio-lab-open-source)
+## 🎓 Formação Acadêmica
+* **Graduação em Engenharia da Computação** — Centro Universitário Martha Falcão Wyden
+  * *Período:* Agosto de 2022 – Setembro de 2026
 
-## Estou Aprendendo
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
- <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>       
-          
+---
+
+## 💼 Experiência Profissional
+
+### **Estagiário de Suporte de Informática** — Clínica Santa Bárbara
+*Setembro de 2025 – Novembro de 2025*
+* Atuação no suporte técnico nível 1 (N1), focado em diagnóstico e resolução de erros em sistemas operacionais e hardware.
+* Manutenção física de componentes e atendimento a usuários internos.
+
+### **Funcionário Militar (Aluno CFOR)** — Exército Brasileiro
+*Fevereiro de 2021 – Dezembro de 2021*
+* Curso de Formação de Oficiais da Reserva do serviço de intendência.
+* Desenvolvimento de competências rigorosas em logística militar, liderança e planejamento operacional.
+
+### **Monitor Voluntário em Feira Científica** — Martha Falcão Wyden
+*Junho de 2026*
+* Suporte logístico e operacional, coordenação de atividades práticas e atendimento ao público durante o evento acadêmico.
+
+---
+
+## 🚀 Projetos de Engenharia Desenvolvidos
+
+* **Elevadores Inteligentes para Encomendas com CLP** *(Mar 2026 – Jun 2026)*
+  Automação industrial e lógica de programação aplicada a hardware com controladores lógicos.
+* **Comunicação Cliente/Servidor HTTP e MQTT em IoT** *(Mar 2025 – Jun 2025)*
+  Internet das Coisas aplicada com processamento concorrente.
+* **Neuro App – Avaliação Neuropsicológica** *(Set 2025 – Nov 2025)*
+  Desenvolvimento de software aplicado para fins clínicos.
+* **Robô Seguidor de Linha** *(Set 2025 – Dez 2025)*
+  Integração prática de sensores, hardware e sistemas embarcados.
+* **Diário Digital em Python aplicando RAD** *(Fev 2025 – Jun 2025)*
+  Metodologia de desenvolvimento rápido de software.
+
+---
+
+## 📜 Certificações & Idiomas
+* **Idiomas:** Português (Nativo) | Inglês Avançado - C1 (EF SET Certificate: 62/100)
+* Curso de Inglês
+* Fundamentos de IA Moderna (DIO)
+* Cibersegurança (DIO)
+* Software em C e Python (Martha Falcão)
+* Automação Industrial (Martha Falcão)
+* Oficial R2 do Exército (Intendência)
            
           
             
