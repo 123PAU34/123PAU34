@@ -1,5 +1,6 @@
 # Paulo Alexander Fernandes Pinheiro
 **Bacharel em Engenharia da Computação**  
+**Pós-graduando em inteligência artificial e machine learning**
 📍 Manaus, AM, Brasil | ✉️ paulo.ap359@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/paulo-alexander1)
 
 
@@ -7,17 +8,18 @@
 
 | Área | Tecnologias e Especialidades |
 | :--- | :--- |
-| **Programação** | Python, C, HTML, CSS, Programação Web |
-| **Hardware & Automação** | IoT, Automação Industrial, Indústria 4.0, Sistemas Embarcados |
-| **Sistemas & Bancos** | Windows, Linux, Bancos de Dados Relacionais |
-| **Especialidades** | Cibersegurança, Inteligência Artificial (Machine Learning, LLMs, Agentes) |
+| **Programação** | Python, C|
+| **Hardware & Automação** |  Sistemas Embarcados |
+| **Sistemas & Bancos** | Windows,Bancos de Dados Relacionais |
+| **Especialidades** |Inteligência Artificial (Machine Learning, LLMs, Agentes) |
 
 ---
 
 ## 🎓 Formação Acadêmica
 * **Graduação em Engenharia da Computação** — Centro Universitário Martha Falcão Wyden
   * *Período:* Agosto de 2022 – Setembro de 2026
-
+* **Pós-graduando em IA e ML** — Anhanguera Educacional
+  * *Período:* Agosto de 2026 – junho de 2027
 ---
 
 ## 💼 Experiência Profissional
@@ -55,7 +57,6 @@
 
 ## 📜 Certificações & Idiomas
 * **Idiomas:** Português (Nativo) | Inglês Avançado - C1 (EF SET Certificate: 62/100)
-* Curso de Inglês
 * Fundamentos de IA Moderna (DIO)
 * Cibersegurança (DIO)
 * Software em C e Python (Martha Falcão)
